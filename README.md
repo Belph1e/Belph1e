@@ -8,8 +8,8 @@ I have been doing programming for about 3 years, trying out different technologi
 
 - 👀 I’m interested in developing desktop applications, games and microcontroller programming.
 - 🌱 I’m currently learning C++ and Python.
-- 👩‍💻 I’m currently working on my first portfolio project!
 - 🎓 I have some experience in different team projects for programming microcontrollers and sports programming as well
+- 👩‍💻 I’m currently working on my first portfolio project!
 
 ***
 
